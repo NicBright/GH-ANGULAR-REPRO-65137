@@ -12,6 +12,8 @@ Instructions:
 - cd PROJECT-USING-LIBRARY
 - npm i
 - npm start # this will copy the dist/ build from LIBRARY-PROJECT to local node_modules
+- if everything would work fine, then the <lib-my-header> component would have a green background color
+  (it hasn't because of the styles being cut off)
 
 Appendix:
 =========
