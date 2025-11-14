@@ -1,0 +1,18 @@
+@background-color: green;
+
+
+.someClass {
+  &.mobi-de {
+    background-image: url(../../assets/mobi-logo-de-inverted.svg);
+  }
+
+  &.mobi-fr {
+    background-image: url(../../assets/mobi-logo-fr-inverted.svg);
+  }
+}
+
+:host {
+  display: block;
+  color: white;
+  background-color: @background-color
+}
