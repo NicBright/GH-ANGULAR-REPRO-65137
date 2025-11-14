@@ -9,9 +9,9 @@ Layout:
 
 Instructions:
 =============
-cd PROJECT-USING-LIBRARY
-npm i
-npm start # this will copy the dist/ build from LIBRARY-PROJECT to local node_modules
+- cd PROJECT-USING-LIBRARY
+- npm i
+- npm start # this will copy the dist/ build from LIBRARY-PROJECT to local node_modules
 
 Appendix:
 =========
